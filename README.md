@@ -1,7 +1,15 @@
-
 <!-- ANIMATED INTRODUCTION -->
 <p align="center">
   <img src="YOUR_TYPING_SVG_URL" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BDB2FF&center=true&vCenter=true&width=600&height=50&lines=Informatics+Graduate;AI%2FML+Developer;Software+Engineer;Building+Intelligent+Systems"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 # Hi, I'm Victoria 👋
